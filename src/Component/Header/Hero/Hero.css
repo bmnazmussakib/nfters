@@ -1,0 +1,69 @@
+.hero {
+    padding: 80px 0;
+}
+
+.hero-text {
+    margin-bottom: 40px;
+}
+
+.hero-text h1 {
+    font-family: 'Integral CF';
+    font-weight: normal;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.hero-text p {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.explore-now {
+    margin-bottom: 50px;
+}
+
+.explore-now button {
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 18px 50px;
+    background: #3D00B7;
+    border: 2px solid #3D00B7;
+    border-radius: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.explore-now button:hover {
+    border: none;
+    color: #3D00B7;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 18px 50px;
+    background: transparent;
+    border: 2px solid #3D00B7;
+    border-radius: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.count p {
+    font-family: 'Integral CF';
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 10px;
+}
+.count span {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px !important;
+    color: #565656;
+}

@@ -1,0 +1,111 @@
+/* Top Menu start */
+
+.input-group{
+    position: relative;
+
+
+}
+
+.input-group input{
+    width: 100%;
+    height: 50px;
+    border-radius: 50px !important;
+    padding-left: 25px;
+}
+
+.input-group button{
+    position: absolute !important;
+    top: 0;
+    right: 0;
+    padding: 10px 20px;
+}
+
+
+.upload-btn {
+    width: 100%;
+    appearance: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 40px;
+    height: 50px;
+    background: #3D00B7;
+    border: 2px solid #3D00B7;
+    border-radius: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.wallet-btn {
+    width: 100%;
+    appearance: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 40px;
+    height: 50px;
+    background: #3D00B7;
+    border: 2px solid #3D00B7;
+    border-radius: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.upload-btn:hover {
+    color: #3D00B7;
+    background: transparent;
+    border: 2px solid #3D00B7;
+    transition: all 0.4s;
+
+}
+.wallet-btn:hover {
+    color: #3D00B7;
+    background: transparent;
+    border: 2px solid #3D00B7;
+    transition: all 0.4s;
+
+}
+
+.top-logo{
+    font-family: 'Integral CF';
+    font-weight: bold;
+    color: #3D00B7 !important;
+    font-size: 24px !important;
+    
+}
+
+.nav-item{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: black !important;
+}
+
+.nav-item:hover{
+    color: #3D00B7 !important;
+}
+
+.navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%2861, 0, 183, 0.55%29%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e") !important;
+}
+
+.navbar .navbar-toggler {
+    color: rgba(61, 0, 183, 0.7)!important;
+    border-color: rgba(61, 0, 183, 0.55) !important;
+}
+/* Top Menu end */
