@@ -1,0 +1,70 @@
+.createAndSell-img{
+    /* padding: 40px; */
+}
+
+.createAndSell-text{
+    padding: 40px;
+
+}
+
+.CreateAndSell{
+    padding: 50px 0;
+}
+
+.bg1, .bg2, .bg3 {
+    padding: 30px;
+}
+
+.img1{
+    position: relative;
+}
+
+.avatar1 {
+    position: absolute;
+    bottom: 0px;
+    left: 230px;
+}
+
+.img2{
+    position: relative;
+}
+
+.avatar2 {
+    position: absolute;
+    bottom: 0;
+    left: 228px;
+}
+
+.img3{
+    position: relative;
+}
+
+.avatar3 {
+    position: absolute;
+    bottom: 0;
+    left: 180px;
+}
+
+.createAndSell-img-1 {
+    text-align: end;
+}
+
+
+
+.createAndSell-text {}
+
+.createAndSell-text h2 {
+    font-family: 'Integral CF';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: #000000;
+}
+
+.createAndSell-text p {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #636363 !important;
+}

@@ -116,6 +116,8 @@ const TopCollection = () => {
 
 
                     <div className="col-lg-4 weekly-Collection-container">
+                        <h3 className="weekly-title">Top Collections over</h3>
+                        <p className="weekly-subtitle">Last 7 days</p>
                         {
                             weeklyTopCollection.map((weeklyTopCollection, index) => <WeeklyTopCollection key={index} weeklyTopCollection={weeklyTopCollection} />)
                         }

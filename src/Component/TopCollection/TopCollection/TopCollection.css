@@ -1,7 +1,23 @@
-.topCollection{
+.topCollection {
     padding: 80px 0;
 }
 
-.weekly-Collection-container{
+.weekly-Collection-container {
     border-left: 1px solid #ECECEC;
+}
+
+.weekly-title {
+    font-family: Integral CF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+}
+
+.weekly-subtitle {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #3D00B7;
 }

@@ -1,0 +1,199 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 320px) {
+    .createAndSell-text h2{
+        margin-bottom: 30px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 96px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 100px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 68px;
+    }
+
+}
+
+
+@media (max-width: 375px) {
+    .createAndSell-text h2{
+        margin-bottom: 30px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 108px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 117px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 86px;
+    }
+
+}
+
+
+@media (max-width: 425px) {
+    .createAndSell-text h2{
+        margin-bottom: 30px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 137px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 144px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 107px;
+    }
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .createAndSell-text h2{
+        margin-bottom: 30px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .createAndSell-text h2{
+        margin-bottom: 30px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+
+
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 285px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 287px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 234px;
+    }
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .createAndSell-text h2{
+        margin-bottom: 40px;
+    }
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 181px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 180px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 140px;
+    }
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .createAndSell-text h2{
+        margin-bottom: 40px;
+    }
+    
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+    .createAndSell-text h2{
+        margin-bottom: 40px;
+    }
+
+    .createAndSell-text p{
+        margin-bottom: 30px;
+    }
+
+    .avatar1 {
+        position: absolute;
+        bottom: 0px;
+        left: 267px;
+    }
+
+    .avatar2 {
+        position: absolute;
+        bottom: 0;
+        left: 270px;
+    }
+
+    .avatar3 {
+        position: absolute;
+        bottom: 0;
+        left: 213px;
+    }
+
+
+}

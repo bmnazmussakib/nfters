@@ -8,7 +8,7 @@ const WeeklyTopCollection = (props) => {
 
     return (
         <div className="weeklyTopCollection">
-            <div className="weekly-card mb-5 d-flex justify-content-evenly">
+            <div className="weekly-card mb-4 d-flex justify-content-evenly">
                 <div className="">
                     <img src={img} className="img-fluid" alt="..." />
                 </div>
