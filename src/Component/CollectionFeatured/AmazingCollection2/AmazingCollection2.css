@@ -1,0 +1,25 @@
+.parent {  display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row dense;
+    grid-template-areas:
+      "one one two"
+      "one one three"
+      "one one four";
+  }
+  
+  .one { grid-area: one; }
+  
+  .two { grid-area: two; }
+  
+  .three { grid-area: three; }
+  
+  .four { grid-area: four; }
+  
+
+  .items {
+    color: #3D00B7 !important;
+    border: 1px solid #3D00B7 !important;
+    border-radius: 50px !important;
+}

@@ -1,3 +1,11 @@
-.collection-featured{
+.collection-featured {
     padding: 80px 0;
+}
+
+.collection-title {
+    font-family: 'Integral CF';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: #000000;
 }
