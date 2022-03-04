@@ -5,6 +5,8 @@ import card from '../../icons/card-tick.svg';
 import chart from '../../icons/chart-square.svg';
 
 const AmazingNFT = () => {
+
+
     return (
         <div className="amazing-NFT">
             <div className="container ">
@@ -19,7 +21,7 @@ const AmazingNFT = () => {
                             <div className="row">
                                 <div className="col-3">
                                     <div className="amaze-card-img">
-                                        <img src={{card}} alt="" />
+                                        <img src={card} alt="" />
                                     </div>
                                 </div>
                                 <div className="col-9">
@@ -36,7 +38,11 @@ const AmazingNFT = () => {
                             <div className="row">
                                 <div className="col-3">
                                     <div className="amaze-card-img">
-                                        <img src={{chart}} alt="" />
+                                        <img src={chart} alt="" />
+                                    </div>
+                                    <div className="row">
+                                        <div className="col-9"></div>
+                                        <div className="col-3"></div>
                                     </div>
                                 </div>
                                 <div className="col-9">

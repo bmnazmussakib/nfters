@@ -1,0 +1,96 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    .bid-card-body{
+        /* display: inline; */
+        margin-bottom: 4rem;
+    }
+
+    .bid-card-title{
+        text-align: center;
+    }
+
+    .bid-card-img{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1.5rem;
+    }
+    
+    .bid {
+        padding: 7px 7px;
+    }
+
+    .place-bid{
+        display: flex;
+        justify-content: center;
+    }
+
+    .place-bid button{
+        width: 100%;
+    }
+    
+    .bid-card {
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    
+    
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    .bid-card {
+        width: 70% !important;
+        margin: 0 auto;
+    }
+
+    .bid {
+        padding: 6px 6px;
+    }
+
+    .bid-card-body{
+        /* width: 80% !important; */
+    }
+   
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .bid{
+        padding: 8px 8px;
+    }
+
+    .bid-card-body {
+        flex: 1 1 auto;
+        padding: 1rem 0.5rem !important;
+        margin-left: 1rem !important;
+    }
+    
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .bid{
+        padding: 8px 8px;
+    }
+
+    
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .bid{
+        padding: 8px 8px;
+    }
+
+
+}

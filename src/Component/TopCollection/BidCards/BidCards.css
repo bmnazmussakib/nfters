@@ -1,0 +1,37 @@
+.bid-card{
+
+}
+
+.bid{
+    font-family: 'DM Sans';
+    font-weight: bold;
+    font-size: 12px;
+    color: #00AC4F !important;
+    border: 1px solid #00AC4F;
+    border-radius: 7px;
+    align-items: center;
+}
+
+.place-bid button {
+    color: white;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 10px 15px;
+    background: #3D00B7;
+    border: 2px solid #3D00B7;
+    border-radius: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.place-bid button:hover {
+    color: #3D00B7;
+    background: #ffffff;
+    border: 2px solid #3D00B7;
+}
+
+.bid-card-body {
+    padding-top: 0 !important;
+        margin-left: 2rem;
+}

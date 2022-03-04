@@ -1,0 +1,28 @@
+.weekly-card-title {
+    font-family: 'DM Sans' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: #000000 !important;
+}
+
+.weeklyTopCollection{
+
+}
+
+.weekly-bid {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #636363;
+}
+
+.percentage {
+    color: #14C8B0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+}
